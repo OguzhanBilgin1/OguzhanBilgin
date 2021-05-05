@@ -1,0 +1,59 @@
+void main() {
+  var personalManager = PersonalManager();
+  var customerManager = CustomerManager();
+  
+  personalManager.add();
+  
+  //using named constructor with arguments
+  var customer = Customer.withInfo("Oguzhan","Bilgin");
+  customerManager.add(customer);
+  
+  //using normal consturcter
+  var customer2 = Customer();
+  customer2.firstName = "Oguzhan";
+  customer2.lastName = "Bilgin2";
+  customerManager.add(customer2);
+}
+
+class Customer{
+  var firstName;
+  var lastName;
+  
+  //normal constructor
+  Customer(){
+    
+  }
+  //named constructor: it's usable with arguments
+  Customer.withInfo(String firstName, String lastName){
+    this.firstName = firstName;
+    this.lastName = lastName;
+  }
+}
+
+class PersonalManager {
+  void add() {
+    print("Eklendi.");
+  }
+
+  void update() {
+    print("Güncellendi.");
+  }
+
+  void delete() {
+    print("Silindi.");
+  }
+}
+
+class CustomerManager {
+  void add(Customer customer) {
+    print(customer.firstName + " " + customer.lastName + " Eklendi.");
+  }
+
+  void update() {
+    print("Güncellendi.");
+  }
+
+  void delete() {
+    print("Silindi.");
+  }
+}
