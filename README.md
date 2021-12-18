@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OguzhanBilgin1
+- 👋 Hi, I’m @ogzhnblgnn
 - 👀 I’m interested in full-stack web/mobile development 
 - 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on web/mobile project team 
