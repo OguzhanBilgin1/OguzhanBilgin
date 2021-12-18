@@ -46,8 +46,8 @@ LATEST MEDIUM ARTICLES
 </pre>
 ----------------------------------------------------------------------------
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OguzhanBilgin1)](https://github.com/OguzhanBilgin1/github-readme-stats)
-[![Khuyen's github stats](https://github-readme-stats.vercel.app/api?username=OguzhanBilgin1&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/OguzhanBilgin1/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ogzhnblgnn)](https://github.com/ogzhnblgnn/github-readme-stats)
+[![Khuyen's github stats](https://github-readme-stats.vercel.app/api?username=ogzhnblgnn&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/oguzhnblgnn/github-readme-stats)
 
 
 
