@@ -5,7 +5,16 @@
 - 📫 How to reach me ogzhnbxx@gmail.com
 
 
+
+
+
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/ogzhnblgnn/) 
+[![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)](https://oguzhanbilgin.medium.com) 
+
+
 ----------------------------------------------------------------------------
+
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)                     [![Khuyen's github stats](https://github-readme-stats.vercel.app/api?username=oguzhanbilgin&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/oguzhanbilgin/github-readme-stats)
 
