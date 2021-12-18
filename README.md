@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ogzhnbxx
-- 👀 I’m interested in full-stack development
+- 👀 I’m interested in full-stack development 
 - 🌱 I’m currently learning artificial intelligence
-- 💞️ I’m looking to collaborate on web/mobile project team
+- 💞️ I’m looking to collaborate on web/mobile project team 
 - 📫 How to reach me ogzhnbxx@gmail.com
 
 
@@ -17,6 +17,7 @@
 
 ----------------------------------------------------------------------------
 
+LAST ARTICLE 
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@oguzhanbilgin/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@oguzhanbilgin/0" alt="Recent Article 0">
 
