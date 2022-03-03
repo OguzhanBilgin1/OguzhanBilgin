@@ -34,7 +34,7 @@
 <pre>
 LATEST MEDIUM ARTICLES
 
-<a target="_blank" href="https://medium.com/@oguzhanbilgin/week2-network-attacks-637c55faa351"><img src="https://miro.medium.com/max/1400/1*npv_qI8yiKtbuUaHdL6J8A.jpeg" alt="Recent Article 0">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@oguzhanbilgin/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@oguzhanbilgin/0" alt="Recent article #1"></a>
 
 
 </pre>
