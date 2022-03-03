@@ -34,7 +34,7 @@
 <pre>
 LATEST MEDIUM ARTICLES
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@oguzhanbilgin/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@oguzhanbilgin/0" alt="Recent article #1"></a>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@oguzhanbilgin/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@oguzhanbilgin/1" alt="Recent article #1"></a>
 
 
 </pre>
