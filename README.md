@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @ogzhnblgnn
-- 👀 I’m interested in full-stack web/mobile development 
+- 👀 I’m interested in mobile development 
 - 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on web/mobile project team 
-- 📫 How to reach me ogzhnbxx@gmail.com
-
-
 
 
 
