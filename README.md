@@ -11,6 +11,7 @@
 &nbsp;
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://oguzhanbilgin.medium.com) 
 [![Gmail Bagde](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://ogzhnbxx@gmail.com)
+[![LeetCode Bagde](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/ogzhnbxx/)
 
 
 ----------------------------------------------------------------------------
