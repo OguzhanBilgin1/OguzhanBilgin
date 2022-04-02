@@ -31,6 +31,8 @@
 <img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white" />             <img src="https://img.shields.io/badge/Windows-Monster_ABRA-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 </pre>
 ----------------------------------------------------------------------------
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@oguzhanbilgin/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@oguzhanbilgin/0" alt="Recent Article 0"> 
+----------------------------------------------------------------------------
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ogzhnblgnn)](https://github.com/ogzhnblgnn/github-readme-stats)
 [![Khuyen's github stats](https://github-readme-stats.vercel.app/api?username=ogzhnblgnn&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/oguzhnblgnn/github-readme-stats)
