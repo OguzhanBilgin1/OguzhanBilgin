@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ogzhnblgnn
 - 👀 I’m interested in mobile development 
-- 🌱 I’m currently learning AI
+- 🌱 I’m currently learning Algorithm Engineering
 - 💞️ I’m looking to collaborate on web/mobile project team 
 
 
