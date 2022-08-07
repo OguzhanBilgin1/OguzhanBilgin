@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on web/mobile project team 
 - ✉️ How To Reach Me: ogzhnbxx@gmail.com
 
--------------------------------------------------------------- OR ----------------------------------------------------------------
+<h3 align="left">Connect with me:</h3>
 
 
 
