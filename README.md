@@ -36,7 +36,7 @@
 ----------------------------------------------------------------------------
 
 
-LATEST MEDIUM ARTICLE
+<h3 align="left">Latest Medium Article</h3>
 
   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@oguzhanbilgin/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@oguzhanbilgin/0" alt="Recent Article 0"> 
  
