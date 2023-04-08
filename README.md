@@ -30,7 +30,7 @@ I'm Oguzhan Bilgin 🤵🏻‍♂️
 <summary><b>💻&nbsp;&nbsp;Dev&nbsp;Ecosystem</b></summary>
 <br />
 <pre>
-<img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" />  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />  <img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white" />             
+<img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" />          
 </pre>
 
 
