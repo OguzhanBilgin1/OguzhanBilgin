@@ -11,8 +11,6 @@ https://oguzhanbilgin.herokuapp.com
 &nbsp;
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ogzhnblgnn/) 
 &nbsp;
-[![LeetCode Bagde](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/ogzhnbxx/)
-[![HackerRank Bagde](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/ogzhnbxx)
 
 
   <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
